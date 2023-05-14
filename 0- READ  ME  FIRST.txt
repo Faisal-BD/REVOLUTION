@@ -1,0 +1,27 @@
+
+Hello, I am Aminur Refat Faisal. Thanks for using my project. I hope you are using to learn something.
+Please don't copy this project. Try to make it yourself. You'll get the real pleasure then.
+
+Make sure that you are not skipping any of the following steps. Good Luck.
+
+
+----------------------------------------- W E L C O M E --------------------------------------------
+
+
+1) At first open " NECESSARY FILES TO RUN THIS PROJECT " this folder.
+
+2) Import the library files in your IDE. (Netbeans, IntelliJ Idea, VsCode, Eclipse etc.)
+
+3) Download & Install " MySQL Workspace ". 
+   
+   - Set the password of MYSQL - " javaproject ".
+   - Then Copy & Paste those files properly.
+   - In mysql, select first lines and click the " Thunder ICON " at the left top edge of MySQL.
+   - Like this, select each line individully and click the ICON.
+
+4) That's it. Now you can Run the GUI Application from your IDE without any errors.
+
+5) All of the .java files are in " src " folder.
+
+                                 
+--------------------------- T H A N K   Y O U , H A V E   A   G O O D   D A Y ----------------------

@@ -1,0 +1,22 @@
+
+** COPY ALL THESE LINES FROM BELOW & PASTE IT TO MYSQL WORKSPACE. **
+--------------------------------------------------------------------
+
+
+create database RevolutionEHS;
+
+use RevolutionEHS;
+
+create table login(Username varchar(20), Password varchar(20));
+
+insert into login values('Admin', '123456');
+
+select * from login;
+
+create table employee(ID varchar(15), Name varchar(20), Fname varchar(20), Mname varchar(20),
+Birth_Date varchar(30), Contact varchar(20), Email varchar(40), Marital varchar(20), Blood varchar(10),
+Address varchar(50), Education varchar(20), NID varchar(25), HSC varchar(10),  Graduation varchar(10),
+Experience varchar(10), Designation varchar(30), Salary varchar(20) );
+
+select * from employee;
+

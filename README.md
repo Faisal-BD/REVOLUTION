@@ -9,13 +9,10 @@ Employee Management System
 | * A B O U T * |
 -----------------
 
-1) I've used IntelliJ Idea as my primary IDE.
+1) Used JAVA (JAVA-SWING).
 
 2) Used MySQL as the Database Management System to store the Employee Details safely.
 
-3) Added Dark Mode feature.
-
-4) Tried my best to keep the UI clean and formal.
 -----------------------------------------------------------------------------------------
 
 -----------------------
@@ -33,4 +30,7 @@ Employee Management System
 5) You can Print the details of all employees.
 
 6) You can easily delete employee's details if he/she leaves the company.
+
+7) Have Dark Mode Feature.
+
 -----------------------------------------------------------------------------------------

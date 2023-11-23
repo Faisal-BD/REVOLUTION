@@ -1,5 +1,5 @@
 # REVOLUTION
-An Ultimate Employee Management System
+Employee Management System
 
 -----------------------------------------------------------------------------------------
                        R E V O L U T I O N - EMPLOYEE HANDLING SYSTEM  [Version 1.0]
